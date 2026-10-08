@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz en images</string>
+    <string name="titre">Quiz en images</string>
+    <string name="btn_suivant">Question suivante</string>
+    <string name="btn_voir_resultat">Voir le résultat</string>
+    <string name="btn_rejouer">Rejouer</string>
+    <string name="titre_resultat">Quiz terminé !</string>
+</resources>
